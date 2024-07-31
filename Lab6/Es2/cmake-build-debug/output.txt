@@ -1,0 +1,16 @@
+A0008 gabriele obino 19/08/2002 Sossu Cagliari 57130
+A0008 gabriele obino 19/08/2002 Sossu Cagliari 57130
+A0007 simone sanna 13/04/2001 Tulipano Ancona 66405
+A0007 simone sanna 13/04/2001 Tulipano Ancona 66405
+A0006 vincenzo maggio 20/01/2000 Adua Sassari 17100
+A0006 vincenzo maggio 20/01/2000 Adua Sassari 17100
+A0002 luca serra 09/11/1999 Margherita Milano 90183
+A0002 luca serra 09/11/1999 Margherita Milano 90183
+A0001 marco chessa 05/11/1998 Rosine Torino 10123
+A0001 marco chessa 05/11/1998 Rosine Torino 10123
+A0004 lucia olia 15/08/1998 Baldedda Nuoro 17199
+A0004 lucia olia 15/08/1998 Baldedda Nuoro 17199
+A0003 matteo sanna 13/08/1998 Deledda Sassari 17100
+A0003 matteo sanna 13/08/1998 Deledda Sassari 17100
+A0005 carla ledda 17/09/1986 Umberto Potenza 87701
+A0005 carla ledda 17/09/1986 Umberto Potenza 87701
