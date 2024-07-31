@@ -50,3 +50,90 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# CLion project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build directories
+build/
+Debug/
+Release/
+
+# Binary and object files
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+
+# Logs
+*.log
+
+# Dependency directories
+*.d
+
+# Other temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# CLion specific directories and files
+.idea/.idea
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/coverage/
+.idea/.editorconfig
+.idea/assetWizard/
+.idea/jsLibraryMappings.xml
+.idea/inspectionProfiles/
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/.idea_misc.xml
+.idea/.idea.xml
+.idea/.idea_workspace.xml
+
+# Other IDE files
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignore other common files
+*.gch
+*.pch
+*.pid
+*.d
+*.dmp
+*.dump
+
+# Ignore coverage and profiling files
+*.gcda
+*.gcno
+*.gcov
+*.prof
+*.profraw
+
+
